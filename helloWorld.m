@@ -1,2 +1,3 @@
+function helloWorld(name)
 
-fprint('hello world Ran Su')
+fprint('hello world %s', name)
